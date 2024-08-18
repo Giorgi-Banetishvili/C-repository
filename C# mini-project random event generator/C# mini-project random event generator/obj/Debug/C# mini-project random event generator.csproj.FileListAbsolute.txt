@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\C# mini-project random event generator\C# mini-project random event generator\bin\Debug\C# mini-project random event generator.exe.config
+C:\Users\ASUS\source\repos\C# mini-project random event generator\C# mini-project random event generator\bin\Debug\C# mini-project random event generator.exe
+C:\Users\ASUS\source\repos\C# mini-project random event generator\C# mini-project random event generator\bin\Debug\C# mini-project random event generator.pdb
+C:\Users\ASUS\source\repos\C# mini-project random event generator\C# mini-project random event generator\obj\Debug\C# mini-project random event generator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\C# mini-project random event generator\C# mini-project random event generator\obj\Debug\C# mini-project random event generator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C# mini-project random event generator\C# mini-project random event generator\obj\Debug\C# mini-project random event generator.exe
+C:\Users\ASUS\source\repos\C# mini-project random event generator\C# mini-project random event generator\obj\Debug\C# mini-project random event generator.pdb
