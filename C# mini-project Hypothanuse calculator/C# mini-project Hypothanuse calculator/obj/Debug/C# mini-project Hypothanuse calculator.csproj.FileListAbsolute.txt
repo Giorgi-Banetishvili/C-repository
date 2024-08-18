@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\bin\Debug\C# mini-project Hypothanuse calculator.exe.config
+C:\Users\ASUS\source\repos\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\bin\Debug\C# mini-project Hypothanuse calculator.exe
+C:\Users\ASUS\source\repos\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\bin\Debug\C# mini-project Hypothanuse calculator.pdb
+C:\Users\ASUS\source\repos\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\obj\Debug\C# mini-project Hypothanuse calculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\obj\Debug\C# mini-project Hypothanuse calculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\obj\Debug\C# mini-project Hypothanuse calculator.exe
+C:\Users\ASUS\source\repos\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\obj\Debug\C# mini-project Hypothanuse calculator.pdb
+C:\Users\ASUS\Desktop\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\bin\Debug\C# mini-project Hypothanuse calculator.exe.config
+C:\Users\ASUS\Desktop\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\bin\Debug\C# mini-project Hypothanuse calculator.exe
+C:\Users\ASUS\Desktop\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\bin\Debug\C# mini-project Hypothanuse calculator.pdb
+C:\Users\ASUS\Desktop\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\obj\Debug\C# mini-project Hypothanuse calculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\obj\Debug\C# mini-project Hypothanuse calculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\obj\Debug\C# mini-project Hypothanuse calculator.exe
+C:\Users\ASUS\Desktop\C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator\obj\Debug\C# mini-project Hypothanuse calculator.pdb

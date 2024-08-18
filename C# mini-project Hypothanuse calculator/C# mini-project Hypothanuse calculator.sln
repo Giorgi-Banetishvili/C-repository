@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# mini-project Hypothanuse calculator", "C# mini-project Hypothanuse calculator\C# mini-project Hypothanuse calculator.csproj", "{7930720F-156F-4F85-8B80-63565EED0FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7930720F-156F-4F85-8B80-63565EED0FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7930720F-156F-4F85-8B80-63565EED0FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7930720F-156F-4F85-8B80-63565EED0FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7930720F-156F-4F85-8B80-63565EED0FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75C5D3AE-F885-4833-BA8D-B0557FE686B9}
+	EndGlobalSection
+EndGlobal
