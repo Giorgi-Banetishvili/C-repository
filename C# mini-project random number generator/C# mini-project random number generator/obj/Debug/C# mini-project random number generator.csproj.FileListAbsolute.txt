@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\C# mini-project random number generator\C# mini-project random number generator\bin\Debug\C# mini-project random number generator.exe.config
+C:\Users\ASUS\source\repos\C# mini-project random number generator\C# mini-project random number generator\bin\Debug\C# mini-project random number generator.exe
+C:\Users\ASUS\source\repos\C# mini-project random number generator\C# mini-project random number generator\bin\Debug\C# mini-project random number generator.pdb
+C:\Users\ASUS\source\repos\C# mini-project random number generator\C# mini-project random number generator\obj\Debug\C# mini-project random number generator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\C# mini-project random number generator\C# mini-project random number generator\obj\Debug\C# mini-project random number generator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C# mini-project random number generator\C# mini-project random number generator\obj\Debug\C# mini-project random number generator.exe
+C:\Users\ASUS\source\repos\C# mini-project random number generator\C# mini-project random number generator\obj\Debug\C# mini-project random number generator.pdb
+C:\Users\ASUS\Desktop\Study\Back End knowledge\C#\C# mini-project random number generator\C# mini-project random number generator\bin\Debug\C# mini-project random number generator.exe.config
+C:\Users\ASUS\Desktop\Study\Back End knowledge\C#\C# mini-project random number generator\C# mini-project random number generator\bin\Debug\C# mini-project random number generator.exe
+C:\Users\ASUS\Desktop\Study\Back End knowledge\C#\C# mini-project random number generator\C# mini-project random number generator\bin\Debug\C# mini-project random number generator.pdb
+C:\Users\ASUS\Desktop\Study\Back End knowledge\C#\C# mini-project random number generator\C# mini-project random number generator\obj\Debug\C# mini-project random number generator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Study\Back End knowledge\C#\C# mini-project random number generator\C# mini-project random number generator\obj\Debug\C# mini-project random number generator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Study\Back End knowledge\C#\C# mini-project random number generator\C# mini-project random number generator\obj\Debug\C# mini-project random number generator.exe
+C:\Users\ASUS\Desktop\Study\Back End knowledge\C#\C# mini-project random number generator\C# mini-project random number generator\obj\Debug\C# mini-project random number generator.pdb
