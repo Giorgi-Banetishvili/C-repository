@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\C# FIZZ_BUZZ\C# FIZZ_BUZZ\bin\Debug\C# FIZZ_BUZZ.exe.config
+C:\Users\ASUS\source\repos\C# FIZZ_BUZZ\C# FIZZ_BUZZ\bin\Debug\C# FIZZ_BUZZ.exe
+C:\Users\ASUS\source\repos\C# FIZZ_BUZZ\C# FIZZ_BUZZ\bin\Debug\C# FIZZ_BUZZ.pdb
+C:\Users\ASUS\source\repos\C# FIZZ_BUZZ\C# FIZZ_BUZZ\obj\Debug\C# FIZZ_BUZZ.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\C# FIZZ_BUZZ\C# FIZZ_BUZZ\obj\Debug\C# FIZZ_BUZZ.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C# FIZZ_BUZZ\C# FIZZ_BUZZ\obj\Debug\C# FIZZ_BUZZ.exe
+C:\Users\ASUS\source\repos\C# FIZZ_BUZZ\C# FIZZ_BUZZ\obj\Debug\C# FIZZ_BUZZ.pdb
