@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\C# mini-project temperature conversion\C# mini-project temperature conversion\bin\Debug\C# mini-project temperature conversion.exe.config
+C:\Users\ASUS\source\repos\C# mini-project temperature conversion\C# mini-project temperature conversion\bin\Debug\C# mini-project temperature conversion.exe
+C:\Users\ASUS\source\repos\C# mini-project temperature conversion\C# mini-project temperature conversion\bin\Debug\C# mini-project temperature conversion.pdb
+C:\Users\ASUS\source\repos\C# mini-project temperature conversion\C# mini-project temperature conversion\obj\Debug\C# mini-project temperature conversion.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\C# mini-project temperature conversion\C# mini-project temperature conversion\obj\Debug\C# mini-project temperature conversion.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C# mini-project temperature conversion\C# mini-project temperature conversion\obj\Debug\C# mini-project temperature conversion.exe
+C:\Users\ASUS\source\repos\C# mini-project temperature conversion\C# mini-project temperature conversion\obj\Debug\C# mini-project temperature conversion.pdb
