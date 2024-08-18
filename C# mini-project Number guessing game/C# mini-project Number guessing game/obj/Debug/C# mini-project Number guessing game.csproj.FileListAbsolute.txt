@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\C# mini-project Number guessing game\C# mini-project Number guessing game\bin\Debug\C# mini-project Number guessing game.exe.config
+C:\Users\ASUS\source\repos\C# mini-project Number guessing game\C# mini-project Number guessing game\bin\Debug\C# mini-project Number guessing game.exe
+C:\Users\ASUS\source\repos\C# mini-project Number guessing game\C# mini-project Number guessing game\bin\Debug\C# mini-project Number guessing game.pdb
+C:\Users\ASUS\source\repos\C# mini-project Number guessing game\C# mini-project Number guessing game\obj\Debug\C# mini-project Number guessing game.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\C# mini-project Number guessing game\C# mini-project Number guessing game\obj\Debug\C# mini-project Number guessing game.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C# mini-project Number guessing game\C# mini-project Number guessing game\obj\Debug\C# mini-project Number guessing game.exe
+C:\Users\ASUS\source\repos\C# mini-project Number guessing game\C# mini-project Number guessing game\obj\Debug\C# mini-project Number guessing game.pdb
+C:\Users\ASUS\Desktop\C# mini-project Number guessing game\C# mini-project Number guessing game\bin\Debug\C# mini-project Number guessing game.exe.config
+C:\Users\ASUS\Desktop\C# mini-project Number guessing game\C# mini-project Number guessing game\bin\Debug\C# mini-project Number guessing game.exe
+C:\Users\ASUS\Desktop\C# mini-project Number guessing game\C# mini-project Number guessing game\bin\Debug\C# mini-project Number guessing game.pdb
+C:\Users\ASUS\Desktop\C# mini-project Number guessing game\C# mini-project Number guessing game\obj\Debug\C# mini-project Number guessing game.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# mini-project Number guessing game\C# mini-project Number guessing game\obj\Debug\C# mini-project Number guessing game.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# mini-project Number guessing game\C# mini-project Number guessing game\obj\Debug\C# mini-project Number guessing game.exe
+C:\Users\ASUS\Desktop\C# mini-project Number guessing game\C# mini-project Number guessing game\obj\Debug\C# mini-project Number guessing game.pdb
