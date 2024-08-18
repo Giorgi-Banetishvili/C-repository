@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\C# mini-project Credit Card validator\C# mini-project Credit Card validator\bin\Debug\C# mini-project Credit Card validator.exe.config
+C:\Users\ASUS\source\repos\C# mini-project Credit Card validator\C# mini-project Credit Card validator\bin\Debug\C# mini-project Credit Card validator.exe
+C:\Users\ASUS\source\repos\C# mini-project Credit Card validator\C# mini-project Credit Card validator\bin\Debug\C# mini-project Credit Card validator.pdb
+C:\Users\ASUS\source\repos\C# mini-project Credit Card validator\C# mini-project Credit Card validator\obj\Debug\C# mini-project Credit Card validator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\C# mini-project Credit Card validator\C# mini-project Credit Card validator\obj\Debug\C# mini-project Credit Card validator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C# mini-project Credit Card validator\C# mini-project Credit Card validator\obj\Debug\C# mini-project Credit Card validator.exe
+C:\Users\ASUS\source\repos\C# mini-project Credit Card validator\C# mini-project Credit Card validator\obj\Debug\C# mini-project Credit Card validator.pdb
